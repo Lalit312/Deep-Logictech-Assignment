@@ -1,2 +1,5 @@
 # Deep-Logictech-Assignment
-Extracted top stories from https://time.com/ without using any npm package.
+
+This is a simple Node.js server that fetches the latest stories from [Time.com](https://time.com) and provides an API endpoint to retrieve them in JSON format. 
+
+
